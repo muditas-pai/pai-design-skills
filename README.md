@@ -1,4 +1,4 @@
-# design-skills
+# pai-design-skills
 
 A collection of Claude Code skills for the design team — an experiment in helping designers iterate directly in code while keeping a design-focused approach, so we can still produce unique, polished work without leaving the craft behind.
 
